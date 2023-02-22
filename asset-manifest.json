@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/51_Tag_lev1_2_js-reactjs_state-faq/static/css/main.91143241.css",
+    "main.js": "/51_Tag_lev1_2_js-reactjs_state-faq/static/js/main.59ccec67.js",
+    "static/js/787.dc84f290.chunk.js": "/51_Tag_lev1_2_js-reactjs_state-faq/static/js/787.dc84f290.chunk.js",
+    "index.html": "/51_Tag_lev1_2_js-reactjs_state-faq/index.html",
+    "main.91143241.css.map": "/51_Tag_lev1_2_js-reactjs_state-faq/static/css/main.91143241.css.map",
+    "main.59ccec67.js.map": "/51_Tag_lev1_2_js-reactjs_state-faq/static/js/main.59ccec67.js.map",
+    "787.dc84f290.chunk.js.map": "/51_Tag_lev1_2_js-reactjs_state-faq/static/js/787.dc84f290.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91143241.css",
+    "static/js/main.59ccec67.js"
+  ]
+}
