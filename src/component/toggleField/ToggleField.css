@@ -1,0 +1,44 @@
+section {
+  width: 80%;
+  margin: auto auto;
+  background-color: rgb(54, 50, 50);
+  color: white;
+  border: 2px solid white;
+}
+section article:nth-of-type(1) {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 20px 25px;
+}
+section article:nth-of-type(1) p {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+section article:nth-of-type(1) button {
+  height: 25px;
+  width: 25px;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: bolder;
+  scale: 1.5;
+  text-align: center;
+}
+section article:nth-of-type(1) button:hover {
+  background-color: aqua;
+}
+section article:nth-of-type(2) {
+  padding: 0 30px;
+}
+section article:nth-of-type(2) ul {
+  padding: 20px 0;
+}
+section article:nth-of-type(2) ul li {
+  list-style: none;
+}
+section article:nth-of-type(2) > p {
+  background-color: white;
+  height: 2px;
+  width: 90%;
+  margin: auto;
+}/*# sourceMappingURL=ToggleField.css.map */

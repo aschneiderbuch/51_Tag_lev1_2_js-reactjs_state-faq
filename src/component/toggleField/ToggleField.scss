@@ -1,0 +1,61 @@
+section {
+    width: 80%;
+    margin: auto auto;
+    background-color: rgb(54, 50, 50);
+    color: white;
+
+    border: 2px solid white;
+
+
+    article:nth-of-type(1) {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        padding: 20px 25px;
+
+        p {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        button {
+            height: 25px;
+            width: 25px;
+            text-align: center;
+            border-radius: 5px;
+
+            font-weight: bolder;
+            scale: 1.5;
+            text-align: center;
+
+            &:hover {
+                background-color: aqua;
+            }
+
+        }
+    }
+
+    article:nth-of-type(2) {
+        padding: 0 30px;
+
+        ul {
+            padding: 20px 0;
+
+
+            li {
+                list-style: none;
+            }
+        }
+        >p {
+            background-color: white;
+            height: 2px;
+            width: 90%;
+            margin: auto;
+    
+    
+        }
+
+    }
+
+ 
+}
